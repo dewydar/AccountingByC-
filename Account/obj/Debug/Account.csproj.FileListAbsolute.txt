@@ -1,0 +1,7 @@
+F:\iti\C#\Account\Account\bin\Debug\Account.exe.config
+F:\iti\C#\Account\Account\bin\Debug\Account.exe
+F:\iti\C#\Account\Account\bin\Debug\Account.pdb
+F:\iti\C#\Account\Account\obj\Debug\Account.csprojAssemblyReference.cache
+F:\iti\C#\Account\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+F:\iti\C#\Account\Account\obj\Debug\Account.exe
+F:\iti\C#\Account\Account\obj\Debug\Account.pdb
